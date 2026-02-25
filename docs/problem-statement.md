@@ -1,1 +1,1 @@
-This file contains the clear and precised problem statement.
+This file contains a clear and precised version of the problem statement.
